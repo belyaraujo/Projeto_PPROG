@@ -15,7 +15,7 @@
 ## 📝 Escolha da Linguagem para o projeto
  PHP
  
- ## ⏳ Cronograma do projeto 
+## ⏳ Cronograma do projeto 
 * Etapa 1: Introdução.
 * Etapa 2: Características.
 * Etapa 3: Plataforma de desenvolvimento e execução.
@@ -28,3 +28,5 @@
 * Etapa 10: Mercado de trabalho.
 * Etapa 11: Associação com nos cursos de Bacharelado e/ou Licenciatura em Computação (Justificar se é relevante ser vista no curso?).
 * Etapa 12: Desenvolver uma aplicação que demonstre as características da linguagem.
+
+## Artigo
