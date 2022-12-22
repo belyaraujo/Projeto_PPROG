@@ -29,4 +29,4 @@
 * Etapa 11: Associação com nos cursos de Bacharelado e/ou Licenciatura em Computação (Justificar se é relevante ser vista no curso?).
 * Etapa 12: Desenvolver uma aplicação que demonstre as características da linguagem.
 
-## Artigo
+## ✍ Artigo
