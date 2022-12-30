@@ -13,7 +13,7 @@
         <input type="text" name="nome" id="nome" value="{{$produto->nome}}" class="form-control"><br>
         <label>Preço</label><br>
      <input type="text" name="preco" id="preco" value="{{$produto->preco}}" class="form-control"><br>
-        <input type="submit" value="Update" class="btn btn-success"><br>
+        <input type="submit" value="Salvar" class="btn btn-success"><br>
     </form>
     
   </div>
